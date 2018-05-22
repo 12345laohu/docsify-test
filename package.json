@@ -1,0 +1,23 @@
+{
+  "name": "docsify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "doc": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobeacoder/docsify-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobeacoder/docsify-test/issues"
+  },
+  "homepage": "https://github.com/tobeacoder/docsify-test#readme"
+}
